@@ -1,3 +1,4 @@
+@echo off
 #!/bin/bash
 # comments
 while true
